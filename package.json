@@ -8,13 +8,18 @@
         "vscode": "^1.33.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Themes"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/geoffstevens8/best-colorful-themes-pack"
     },
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#384357",
+        "theme": "dark"
+      },
     "extensionPack": [ 
         "ahmadawais.shades-of-purple", 
         "RobbOwen.synthwave-vscode", 
