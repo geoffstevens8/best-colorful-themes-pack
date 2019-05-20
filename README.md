@@ -114,7 +114,7 @@ Based on the original Atom Hipster theme, Hipster offers a smattering of color a
 Wildberry gives you the pleasure of coding as if you were submerged in the gooey center of a microwaved blueberry Pop-Tart. 
 
 <p align="center" style="margin: 0 10%">
-  <img src="./images/wildberry.png" alt="Wildberry for VS Code" />
+  <img src="https://github.com/geoffstevens8/best-colorful-themes-pack/blob/master/images/wildberry.png?raw=true" alt="Wildberry for VS Code" />
 </p>
 
 ### Qiita
