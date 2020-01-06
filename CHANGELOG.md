@@ -16,3 +16,7 @@ All notable changes to the extension pack will be documented in this file.
 * Added theme [Wildberry](https://marketplace.visualstudio.com/items?itemName=joebayer1340.wildberry-theme)
 * Added theme [Qiita](https://marketplace.visualstudio.com/items?itemName=Increments.qiita)
 * Added theme [Soft Era](https://marketplace.visualstudio.com/items?itemName=soft-aesthetic.soft-era-theme)
+
+## [1.0.1] - 2020-1-5
+### Added
+* Updated README with new information

@@ -4,9 +4,11 @@
 
 The best colorful themes for Visual Studio Code are now available as a single package, so you don't have to manually install them one by one. 
 
-I love building tools that make developers happy. You should also check out another extension I am contributing to called [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode).
+I love building tools that make developers happy. If you like this extension pack, you should also check out my other projects: 
+* [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode): VS Code extension for automatic programming metrics and time-tracking, right in your editor
+* [SRC](https://www.software.com/src): a strategic summary of the developer world in ten minutes or less—once a week, right to your inbox
 
-The pack includes: 
+The **Best Colorful Themes** pack includes: 
 
 * [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 * [SynthWave](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
